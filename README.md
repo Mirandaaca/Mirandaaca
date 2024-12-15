@@ -1,4 +1,9 @@
-<h1 align="center">¡Hola! Soy Cristopher Miranda <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"></h1>
+<h1 align="center">
+  <a href="https://github.com/Mirandaaca">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=%C2%A1Hola!+Soy+Cristopher+Miranda;Bienvenido+a+mi+perfil+de+GitHub">
+  </a>
+  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30">
+</h1>
 
 <h3 align="center">Desarrollador Backend | Explorando nuevas tecnologías</h3>
 
@@ -29,6 +34,10 @@
 ---
 
 ### 💻 Tecnologías y herramientas:
+<p>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="30">  
+</p>
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
