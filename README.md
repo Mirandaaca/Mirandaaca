@@ -7,7 +7,7 @@
 - 💻 Actualmente trabajo con .NET Core y Angular, desarrollando APIs y sistemas web.  
 - 🌱 Aprendiendo: Machine Learning, Inteligencia Artificial y Cloud Computing.  
 - 🎯 Mi meta es aplicar estas tecnologías para resolver problemas reales e innovadores.  
-- ✉️ Contacto: [mirandaaca@gmail.com](mailto:mirandaaca@gmail.com)  
+- ✉️ Contacto: [cristopher1012z@gmail.com](mailto:cristopher1012z@gmail.com)  
 
 ---
 
@@ -34,8 +34,8 @@
 ---
 
 ## 🚀 Proyectos Destacados  
-- [Sistema de Gestión Documental](https://github.com/mirandaaca/gestion-documental): Sistema para organizar y gestionar documentos con .NET Core y Angular.  
-- [Proyecto de Grado](https://github.com/mirandaaca/proyecto-grado): Sistema desarrollado como parte de mi proyecto de titulación con un 80% de avance.  
+- [Sistema de Gestión Documental](https://github.com/mirandaaca/gestion-documental): Sistema para organizar y gestionar documentos del departamento de Admisiones de la Universidad Evangélica Boliviana.  
+- [Sistema Web Bibliotecario](https://github.com/mirandaaca/proyecto-grado): Sistema para la biblioteca de la Universidad Evangélica Boliviana.  
 - [Portafolio Personal](https://github.com/mirandaaca/portafolio): Sitio web para mostrar mis proyectos y habilidades.  
 
 ---
