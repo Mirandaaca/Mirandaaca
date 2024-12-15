@@ -1,9 +1,8 @@
-<h1 align="center">
-  <a href="https://github.com/Mirandaaca">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=%C2%A1Hola!+Soy+Cristopher+Miranda;Bienvenido+a+mi+perfil+de+GitHub">
-  </a>
-  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30">
-</h1>
+<h1 align="center"><b> ¡Hola!, Soy Cristopher Miranda</b></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Hola+soy+Cristopher+Miranda;++;Desarrollador+Backend-End;"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>
+</p>
 
 <h3 align="center">Desarrollador Backend | Explorando nuevas tecnologías</h3>
 
