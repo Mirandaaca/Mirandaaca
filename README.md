@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Un poco sobre mí:
 
-- 🎓 **Egresado** en Ingeniería en Sistemas.  
+- 🎓 **Egresado** de Ingeniería en Sistemas.  
 - 💻 Actualmente desarrollando APIs y sistemas web con **.NET Core** y **Angular**.  
 - 🌱 Aprendiendo: Python, FastAPI y Docker.  
 - 🎯 Objetivo: Aplicar tecnologías innovadoras para resolver problemas del mundo real.  
