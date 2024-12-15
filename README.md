@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy [Tu Nombre]!
+# 👋 ¡Hola, soy Cristopher Miranda!
 
 ### Desarrollador Backend | Apasionado por la IA y el ML  
 
