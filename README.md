@@ -21,6 +21,13 @@
 
 ---
 
+## 🚀 Proyectos Destacados  
+- [Sistema de Gestión Documental (Backend)](https://github.com/mirandaaca/gestion-documental): Sistema para organizar y gestionar documentos del departamento de Admisiones de la Universidad Evangélica Boliviana.  
+- [Sistema Web para Biblioteca (Backend)](https://github.com/mirandaaca/proyecto-grado): Sistema desarrollado para la biblioteca de la Universidad Evangélica Boliviana.  
+- [Portafolio Personal](https://github.com/mirandaaca/portafolio): Sitio web para mostrar mis proyectos y habilidades.  
+
+---
+
 ### 💻 Tecnologías y herramientas:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
