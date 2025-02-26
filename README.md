@@ -22,7 +22,7 @@
 ---
 
 ## 🚀 Proyectos Destacados  
-- [Plataforma Estudiantil UEB (FullStack)] (https://notas2.ueb.edu.bo/login): Plataforma Estudiantil para la Universidad Evangélica Boliviana en donde el estudiante podrá ver sus notas, histórico, avance de materias, documentación, deudas, entre otro tipo de información.
+- [Plataforma Estudiantil UEB (FullStack)](https://notas2.ueb.edu.bo/login): Plataforma Estudiantil para la Universidad Evangélica Boliviana en donde el estudiante podrá ver sus notas, histórico, avance de materias, documentación, deudas, entre otro tipo de información.
 - [Sistema de Gestión Documental (Backend)](https://github.com/Mirandaaca/documentalmanagement-api): Sistema para organizar y gestionar documentos del departamento de Admisiones de la Universidad Evangélica Boliviana.  
 - [Sistema Web para Biblioteca (Backend)](https://github.com/Mirandaaca/librarymanagement-api): Sistema desarrollado para la biblioteca de la Universidad Evangélica Boliviana.  
 - [Portafolio Personal](https://github.com/mirandaaca/portafolio): Sitio web para mostrar mis proyectos y habilidades.  
