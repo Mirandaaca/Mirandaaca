@@ -8,7 +8,7 @@
 
 - 🎓 **Egresado** de Ingeniería en Sistemas.  
 - 💻 Actualmente desarrollando APIs y sistemas web con **.NET Core** y **Angular**.  
-- 🌱 Aprendiendo: Python, FastAPI y Docker.  
+- 🌱 Aprendiendo: NestJS y Docker.  
 - 🎯 Objetivo: Aplicar tecnologías innovadoras para resolver problemas del mundo real.  
 - ❤️ Me apasiona aprender nuevas tecnologías y compartir conocimientos con la comunidad.  
 
