@@ -52,7 +52,7 @@
 ---
 
 ### 🌱 Actualmente aprendiendo:
-- Python, FastAPI y Docker.
+- NestJS y Docker.
 - Desarrollo avanzado con **.NET Core** y **Angular**.
 - Mejores prácticas en arquitectura limpia y optimización de APIs.
 
