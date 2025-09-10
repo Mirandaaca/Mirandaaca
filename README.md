@@ -1,13 +1,13 @@
 <h1 align="center">¡Hola! Soy Cristopher Miranda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">Desarrollador Backend | Explorando nuevas tecnologías</h3>
+<h3 align="center"> Explorando nuevas tecnologías</h3>
 
 ---
 
 ### 👨‍💻 Un poco sobre mí:
 
 - 🎓 **Egresado** de Ingeniería en Sistemas.  
-- 💻 Actualmente desarrollando APIs y sistemas web con **.NET Core** y **Angular**.  
+- 💻 Actualmente desarrollando APIs **.NET Core**.  
 - 🌱 Aprendiendo: NestJS y Docker.  
 - 🎯 Objetivo: Aplicar tecnologías innovadoras para resolver problemas del mundo real.  
 - ❤️ Me apasiona aprender nuevas tecnologías y compartir conocimientos con la comunidad.  
