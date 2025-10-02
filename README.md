@@ -7,7 +7,7 @@
 ### 👨‍💻 Un poco sobre mí:
 
 - 🎓 **Egresado** de Ingeniería en Sistemas.  
-- 💻 Actualmente desarrollando APIs **.NET Core**.  
+- 💻 Actualmente desarrollando APIs con **.NET Core**.  
 - 🌱 Aprendiendo: NestJS y Docker.  
 - 🎯 Objetivo: Aplicar tecnologías innovadoras para resolver problemas del mundo real.  
 - ❤️ Me apasiona aprender nuevas tecnologías y compartir conocimientos con la comunidad.  
@@ -22,11 +22,9 @@
 ---
 
 ## 🚀 Proyectos Destacados  
-- [Plataforma Estudiantil UEB (FullStack)](https://notas2.ueb.edu.bo/login): Plataforma Estudiantil para la Universidad Evangélica Boliviana en donde el estudiante podrá ver sus notas, histórico, avance de materias, documentación, deudas, entre otro tipo de información.
-- [Sistema de Gestión Documental (Backend)](https://github.com/Mirandaaca/documentalmanagement-api): Sistema para organizar y gestionar documentos del departamento de Admisiones de la Universidad Evangélica Boliviana.  
-- [Sistema Web para Biblioteca (Backend)](https://github.com/Mirandaaca/librarymanagement-api): Sistema desarrollado para la biblioteca de la Universidad Evangélica Boliviana.  
-- [Portafolio Personal](https://github.com/mirandaaca/portafolio): Sitio web para mostrar mis proyectos y habilidades.  
-
+- [Plataforma Estudiantil UEB (FullStack)](https://miportal.ueb.edu.bo/): Plataforma Estudiantil para la Universidad Evangélica Boliviana en donde el estudiante podrá ver sus notas, histórico, avance de materias, documentación, deudas, entre otro tipo de información.
+- [Sistema de Gestión Documental (Backend)](https://github.com/Mirandaaca/documentalmanagement-api): API Rest hecha en ASP.NET Core Web API para organizar y gestionar documentos del departamento de Admisiones de la Universidad Evangélica Boliviana.
+- [Sistema Web para Biblioteca (Backend)](https://github.com/Mirandaaca/librarymanagement-api): API Rest hecha en ASP.NET Core Web API para la biblioteca de la Universidad Evangélica Boliviana.  
 ---
 
 ### 💻 Tecnologías y herramientas:
@@ -38,7 +36,6 @@
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
