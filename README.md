@@ -53,7 +53,8 @@ Systems Engineer from Bolivia with hands-on experience building and deploying pr
 
 ### 📊 GitHub Stats
 
-[![Cristopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirandaaca)](https://github.com/anuraghazra/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirandaaca&layout=compact&hide_border=true)
+[![Cristopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirandaaca)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirandaaca&layout=compact&hide_border=true)
 
 ---
 
