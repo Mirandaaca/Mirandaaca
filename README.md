@@ -47,7 +47,7 @@ Systems Engineer from Bolivia with hands-on experience building and deploying pr
 |---------|-------------|------------|
 | [Student Portal UEB](https://miportal.ueb.edu.bo) | Web app for students to query grades, subjects, and financial records | Angular, ASP.NET Core Web API, Dapper, Informix |
 | [Event Management UEB](https://eventos-uni.ueb.edu.bo/) | QR-based check-in and event registration platform | Angular, ASP.NET Core Web API, EntityFrameworkCore, MySQL, Hangfire |
-| [Library UEB](http://177.222.42.171/inicio) | Library system and full book lifecycle management (search, loan, renewal, return, penalties) | ASP.NET Core Web API, Dapper, PostgreSQL |
+| [Library UEB](https://biblioteca.ueb.edu.bo) | Library system and full book lifecycle management (search, loan, renewal, return, penalties) | ASP.NET Core Web API, Dapper, PostgreSQL |
 
 ---
 
