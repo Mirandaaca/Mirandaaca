@@ -1,64 +1,76 @@
-# Hi, I'm Cristopher Miranda 👋
+<div align="center">
 
-**Backend Developer** specializing in **.NET (C#)** and **Spring Boot (Java)**
+# Cristopher Miranda
 
-Systems Engineer from Bolivia with hands-on experience building and deploying production RESTful APIs. I focus on Clean Architecture, Event-Driven patterns, and scalable backend systems.
+**Backend Developer** · Systems Engineer · Santa Cruz, Bolivia 🇧🇴
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&height=40&lines=Building+production+APIs+with+.NET+%26+Spring+Boot;Clean+Architecture+-+Event-Driven+Systems;Full-lifecycle+dev%2C+backend+to+deploy">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=0369A1&center=true&vCenter=true&width=560&height=40&lines=Building+production+APIs+with+.NET+%26+Spring+Boot;Clean+Architecture+-+Event-Driven+Systems;Full-lifecycle+dev%2C+backend+to+deploy">
+</picture>
 
-### 🛠 Tech Stack
+</div>
+
+<br>
+
+I build backend systems end-to-end — Clean Architecture APIs, event-driven integrations, and the Linux servers they run on. When a project needs a frontend, I ship that too, with a strong focus on fast, clean UI/UX.
+
+🏆 ICPC South America South Finals 2025 &nbsp;·&nbsp; 🎓 FullStack Bootcamp, Jala University
+
+<br>
+
+### Stack
 
 **Backend**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,nestjs,nodejs&theme=dark" alt="Backend stack" />
 
-**Frontend**
+**Frontend & Design**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,angular,react,figma&theme=dark" alt="Frontend stack" />
 
-**Databases**
+**Data & Infrastructure**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,azure,nginx,linux,git,githubactions,kafka&theme=dark" alt="Data and infrastructure stack" />
 
-**DevOps & Tools**
+Also working with: SQL Server · Entity Framework Core / Dapper · Informix (ODBC) · Keycloak · Hangfire · Flyway · SonarQube
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+<br>
 
----
+### Right now
 
-### 🚀 Production Projects
+- 🎓 Finishing my Systems Engineering thesis at UEB
+- ⚙️ Building a GitHub Actions → AWS EC2 CI/CD pipeline (Docker, ECR, SSM) for a Next.js app
+- 🎨 Designing a restaurant landing page focused on speed, SEO, and clean UI/UX
+- 🚀 Open to backend / full-stack opportunities
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Student Portal UEB](https://miportal.ueb.edu.bo) | Web app for students to query grades, subjects, and financial records | Angular, ASP.NET Core Web API, Dapper, Informix |
-| [Event Management UEB](https://eventos-uni.ueb.edu.bo/) | QR-based check-in and event registration platform | Angular, ASP.NET Core Web API, EntityFrameworkCore, MySQL, Hangfire |
-| [Library UEB](https://biblioteca.ueb.edu.bo) | Library system and full book lifecycle management (search, loan, renewal, return, penalties) | ASP.NET Core Web API, Dapper, PostgreSQL |
+<br>
 
----
+### Featured projects
 
-### 📊 GitHub Stats
+| Project | What it does | Stack |
+|---|---|---|
+| **Student Portal** — UEB | Grades, enrollment, and financial records for the entire student body | ASP.NET Core · Dapper · Informix (ODBC) |
+| **Event Management** — UEB | QR-based check-in and registration for university events | ASP.NET Core · EF Core · SQL Server · Hangfire |
+| **Library System** — UEB | Full book lifecycle — search, loan, renewal, return, penalties — with RBAC | ASP.NET Core · Dapper · PostgreSQL · JWT |
+| **SmartQ** | Virtual queue management for online & in-person service, built with an 8-person Scrum team | Spring Boot 3 · Modulith · PostgreSQL · Kafka → Firebase |
+| **Epidemiological Map** | Geolocated disease-case tracking with heat-map visualization for health authorities | ASP.NET Core · EF Core · MySQL · JWT |
+| **GIS Mapping** | Public GIS viewer for protected natural areas, built for the Santa Cruz Dept. Government | Angular · Leaflet · GeoJSON |
 
-![Cristopher's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Mirandaaca&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Mirandaaca&layout=compact&hide_border=true)
+<br>
 
----
+<div align="center">
 
-### 📫 Contact
+<img src="https://github-stats-extended.vercel.app/api?username=Mirandaaca&show_icons=true&theme=dark&hide_border=true" alt="Cristopher's GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mirandaaca&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cristopher1012z@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-adrian-miranda-aramayo/)
+</div>
+
+<br>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:cristopher1012z@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-adrian-miranda-aramayo/)
+
+</div>
