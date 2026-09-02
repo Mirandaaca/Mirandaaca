@@ -2,20 +2,17 @@
 
 # Cristopher Miranda
 
-**Backend Developer** · Systems Engineer · Santa Cruz, Bolivia 🇧🇴
+**Backend Developer** — APIs, databases, and the Linux servers they run on
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&height=40&lines=Building+production+APIs+with+.NET+%26+Spring+Boot;Clean+Architecture+-+Event-Driven+Systems;Full-lifecycle+dev%2C+backend+to+deploy">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=0369A1&center=true&vCenter=true&width=560&height=40&lines=Building+production+APIs+with+.NET+%26+Spring+Boot;Clean+Architecture+-+Event-Driven+Systems;Full-lifecycle+dev%2C+backend+to+deploy">
-</picture>
+Santa Cruz, Bolivia 🇧🇴 &nbsp;·&nbsp; UTC−4 &nbsp;·&nbsp; English C1 &nbsp;·&nbsp; Open to remote
 
 </div>
 
 <br>
 
-I build backend systems end-to-end — Clean Architecture APIs, event-driven integrations, and the Linux servers they run on. When a project needs a frontend, I ship that too, with a strong focus on fast, clean UI/UX.
+I build backends end-to-end: **ASP.NET Core** APIs with Clean Architecture, the SQL databases behind them, and the **Ubuntu / Nginx / systemd** setup that keeps them running in production. Three of the systems below are live and used daily by an entire university. When a project needs a frontend, I ship that too with **Angular**.
 
-🏆 ICPC South America South Finals 2025 &nbsp;·&nbsp; 🎓 FullStack Bootcamp, Jala University
+🏆 ICPC South America South Finals 2025 &nbsp;·&nbsp; 🎓 Systems Engineer, UEB (2026) &nbsp;·&nbsp; 📜 Full Stack Postgraduate Diploma, UNIVALLE
 
 <br>
 
@@ -23,26 +20,21 @@ I build backend systems end-to-end — Clean Architecture APIs, event-driven int
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,nestjs,nodejs&theme=dark" alt="Backend stack" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring&theme=dark" alt="Backend stack" />
 
-**Frontend & Design**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=ts,angular,react,figma&theme=dark" alt="Frontend stack" />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark" alt="Frontend stack" />
 
-**Data & Infrastructure**
+**Data & Messaging**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,azure,nginx,linux,git,githubactions,kafka&theme=dark" alt="Data and infrastructure stack" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,kafka,firebase&theme=dark" alt="Data stack" />
 
-Also working with: SQL Server · Entity Framework Core / Dapper · Informix (ODBC) · Keycloak · Hangfire · Flyway · SonarQube
+**Infrastructure**
 
-<br>
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,azure,githubactions,git,bash&theme=dark" alt="Infrastructure stack" />
 
-### Right now
-
-- 🎓 Finishing my Systems Engineering thesis at UEB
-- ⚙️ Building a GitHub Actions → AWS EC2 CI/CD pipeline (Docker, ECR, SSM) for a Next.js app
-- 🎨 Designing a restaurant landing page focused on speed, SEO, and clean UI/UX
-- 🚀 Open to backend / full-stack opportunities
+Also working with: SQL Server · Entity Framework Core · Dapper · Informix (ODBC) · JWT · Keycloak · Hangfire · Flyway · SonarQube · Node.js / Express · Scrum (Jira, Confluence)
 
 <br>
 
@@ -50,12 +42,22 @@ Also working with: SQL Server · Entity Framework Core / Dapper · Informix (ODB
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Student Portal** — UEB | Grades, enrollment, and financial records for the entire student body | ASP.NET Core · Dapper · Informix (ODBC) |
-| **Event Management** — UEB | QR-based check-in and registration for university events | ASP.NET Core · EF Core · SQL Server · Hangfire |
-| **Library System** — UEB | Full book lifecycle — search, loan, renewal, return, penalties — with RBAC | ASP.NET Core · Dapper · PostgreSQL · JWT |
-| **SmartQ** | Virtual queue management for online & in-person service, built with an 8-person Scrum team | Spring Boot 3 · Modulith · PostgreSQL · Kafka → Firebase |
-| **Epidemiological Map** | Geolocated disease-case tracking with heat-map visualization for health authorities | ASP.NET Core · EF Core · MySQL · JWT |
-| **GIS Mapping** | Public GIS viewer for protected natural areas, built for the Santa Cruz Dept. Government | Angular · Leaflet · GeoJSON |
+| **[Student Portal](https://miportal.ueb.edu.bo)** | Grades, enrollment and financial records for the university's entire student body | ASP.NET Core 8 · Dapper · Informix (ODBC) · Linux |
+| **[Event Management](https://eventos-uni.ueb.edu.bo/)** | QR-based registration and check-in for university events | ASP.NET Core · EF Core · SQL Server · Hangfire |
+| **[Library System](http://177.222.42.171/inicio)** | Full book lifecycle — search, loan, renewal, return, penalties — with role-based access control | ASP.NET Core · Dapper · PostgreSQL (PL/pgSQL) · JWT |
+| **SmartQ** | Virtual queue management for online and in-person customer service, built by an 8-person Scrum team | Spring Boot 3 · Spring Modulith · PostgreSQL · Kafka → Firebase |
+| **[Epidemiological Map](https://uebdepidemiologicmap.web.app)** | Geolocated disease-case tracking with heat-map visualization for health authorities | ASP.NET Core · EF Core · MySQL · JWT · Firebase |
+| **GIS Mapping** | Public viewer of Santa Cruz's protected natural areas, built for the Departmental Government | Angular · Leaflet · GeoJSON |
+
+<sub>The UEB systems were built in-house — their source lives in private institutional repositories. Happy to walk through the architecture on a call.</sub>
+
+<br>
+
+### Right now
+
+- ⚙️ Building a **GitHub Actions → AWS EC2** CI/CD pipeline (Docker, ECR, SSM) for a Next.js app
+- 🎯 Growing toward **DevOps** — containers, pipelines, and infrastructure automation
+- 🚀 Open to backend, full-stack and DevOps roles
 
 <br>
 
