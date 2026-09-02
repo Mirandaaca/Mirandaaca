@@ -44,7 +44,7 @@ Also working with: SQL Server · Entity Framework Core · Dapper · Informix (OD
 |---|---|---|
 | **[Student Portal](https://miportal.ueb.edu.bo)** | Grades, enrollment and financial records for the university's entire student body | ASP.NET Core 8 · Dapper · Informix (ODBC) · Linux |
 | **[Event Management](https://eventos-uni.ueb.edu.bo/)** | QR-based registration and check-in for university events | ASP.NET Core · EF Core · SQL Server · Hangfire |
-| **[Library System](http://177.222.42.171/inicio)** | Full book lifecycle — search, loan, renewal, return, penalties — with role-based access control | ASP.NET Core · Dapper · PostgreSQL (PL/pgSQL) · JWT |
+| **[Library System](https://biblioteca.ueb.edu.bo/inicio)** | Catalog search, loan requests and borrowing history for students, plus a role-restricted back office where librarians manage books, copies, loans and suspensions | ASP.NET Core · Dapper · PostgreSQL (PL/pgSQL) · JWT · RBAC |
 | **SmartQ** | Virtual queue management for online and in-person customer service, built by an 8-person Scrum team | Spring Boot 3 · Spring Modulith · PostgreSQL · Kafka → Firebase |
 | **[Epidemiological Map](https://uebdepidemiologicmap.web.app)** | Geolocated disease-case tracking with heat-map visualization for health authorities | ASP.NET Core · EF Core · MySQL · JWT · Firebase |
 | **GIS Mapping** | Public viewer of Santa Cruz's protected natural areas, built for the Departmental Government | Angular · Leaflet · GeoJSON |
@@ -55,9 +55,10 @@ Also working with: SQL Server · Entity Framework Core · Dapper · Informix (OD
 
 ### Right now
 
-- ⚙️ Building a **GitHub Actions → AWS EC2** CI/CD pipeline (Docker, ECR, SSM) for a Next.js app
-- 🎯 Growing toward **DevOps** — containers, pipelines, and infrastructure automation
-- 🚀 Open to backend, full-stack and DevOps roles
+- Building **[Store API](https://github.com/Mirandaaca/sample-api-rest-dotnet-10)** — a sales-management REST API on **ASP.NET Core 10**, EF Core 10 and PostgreSQL, with a layered architecture, FluentValidation, RFC 9457 `ProblemDetails` error handling, and OpenAPI docs served through **Scalar**
+- Wiring its delivery pipeline: **GitHub Actions** for CI, and a self-hosted **Jenkins** job that builds, migrates and updates a `systemd` service on Fedora on every tag
+- Growing toward **DevOps** — containers, pipelines, and infrastructure automation
+- Open to backend, full-stack and DevOps roles
 
 <br>
 
