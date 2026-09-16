@@ -20,11 +20,11 @@ I build backends end-to-end: **ASP.NET Core** APIs with Clean Architecture, the 
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring&theme=dark" alt="Backend stack" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" alt="Backend stack" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark" alt="Frontend stack" />
+<img src="https://skillicons.dev/icons?i=angular,ts&theme=dark" alt="Frontend stack" />
 
 **Data & Messaging**
 
@@ -32,7 +32,7 @@ I build backends end-to-end: **ASP.NET Core** APIs with Clean Architecture, the 
 
 **Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=linux,nginx,docker,azure,githubactions,git,bash&theme=dark" alt="Infrastructure stack" />
+<img src="https://skillicons.dev/icons?i=linux,nginx,githubactions,git,bash&theme=dark" alt="Infrastructure stack" />
 
 Also working with: SQL Server · Entity Framework Core · Dapper · Informix (ODBC) · JWT · Keycloak · Hangfire · Flyway · SonarQube · Node.js / Express · Scrum (Jira, Confluence)
 
