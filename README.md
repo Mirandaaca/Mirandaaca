@@ -17,22 +17,12 @@ Junior software developer from Santa Cruz, Bolivia 🇧🇴. I build web applica
 
 <sub>The source code lives in private institutional repositories. Happy to walk through it on a call.</sub>
 
-### My Stack
-#### Backend
-<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark"/>
+### My Stack & Tools
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,postgres,mysql,ubuntu,nginx,git,githubactions,postman,vscode,visualstudio&theme=dark" alt="C#, .NET, Angular, TypeScript, PostgreSQL, MySQL, Ubuntu, Nginx, Git" />
 
-#### Frontend
-<img src="https://skillicons.dev/icons?i=angular,ts,tailwindcss&theme=dark"/>
+#### Also familiar with:
+<img src="https://skillicons.dev/icons?i=nodejs,js,java,spring,react,materialui,docker&theme=dark" alt="NodeJS, JavaScript, Java, Spring Boot, React, MaterialUI, GitHub Actions, Docker" />
 
-#### Databases
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark"/>
-  
-#### DevOps & Tools
-  <img src="https://skillicons.dev/icons?i=ubuntu,nginx,docker,git,githubactions,vscode,visualstudio&theme=dark"/>
-
-#### Also familiar with 
-  <img src="https://skillicons.dev/icons?i=nodejs,js,java,spring,react,materialui&theme=dark"/>
-  
 <div align="center">
   
   📫 [cristopher1012z@gmail.com](mailto:cristopher1012z@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cristopher-adrian-miranda-aramayo/)
