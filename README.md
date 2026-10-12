@@ -6,7 +6,6 @@
 
 Junior software developer from Santa Cruz, Bolivia 🇧🇴. I build web applications end to end, from C# and ASP.NET Core APIs to Angular frontends, with my strongest work on the backend.
 
-- AI-assisted development with Claude Code & GitHub Copilot
 - Currently building [Store API](https://github.com/Mirandaaca/store-api-dotnet10) and learning CI/CD and containers
 - Systems Engineer (UEB, 2026) · English B2 · UTC−4 · open to remote roles
 
