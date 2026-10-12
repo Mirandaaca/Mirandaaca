@@ -17,6 +17,6 @@ Junior software developer from Santa Cruz, Bolivia 🇧🇴. I build web applica
 
 <sub>The source code lives in private institutional repositories. Happy to walk through it on a call.</sub>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,postgres,mysql,ubuntu,nginx,git&theme=dark" alt="C#, .NET, Angular, TypeScript, PostgreSQL, MySQL, Ubuntu, Nginx, Git" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,angular,ts,tailwindcss,postgres,mysql,ubuntu,nginx,docker,git,github,githubactions,visualstudio,vscode&theme=dark" alt="C#, .NET, Angular, TypeScript, PostgreSQL, MySQL, Ubuntu, Nginx, Git" />
 
 📫 [cristopher1012z@gmail.com](mailto:cristopher1012z@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cristopher-adrian-miranda-aramayo/)
