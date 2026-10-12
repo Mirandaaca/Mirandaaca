@@ -2,17 +2,17 @@
 
 # Cristopher Miranda
 
-**Backend Developer** — APIs, databases, and the Linux servers they run on
+**Junior Software Developer** — .NET APIs, Angular frontends, and the Linux servers they run on
 
-Santa Cruz, Bolivia 🇧🇴 &nbsp;·&nbsp; UTC−4 &nbsp;·&nbsp; English C1 &nbsp;·&nbsp; Open to remote
+Santa Cruz, Bolivia 🇧🇴 &nbsp;·&nbsp; UTC−4 &nbsp;·&nbsp; English B2 &nbsp;·&nbsp; Open to remote
 
 </div>
 
 <br>
 
-I build backends end-to-end: **ASP.NET Core** APIs with Clean Architecture, the SQL databases behind them, and the **Ubuntu / Nginx / systemd** setup that keeps them running in production. Three of the systems below are live and used daily by an entire university. When a project needs a frontend, I ship that too with **Angular**.
+I build web applications end to end, with my strongest work on the backend: REST APIs with **ASP.NET Core**, the SQL databases behind them, **Angular** frontends, and deployments on **Ubuntu** with **Nginx** and **systemd**. From 2025 to 2026 I developed and maintained three systems that are in production at Universidad Evangélica Boliviana. I work with **Claude Code** and **GitHub Copilot** every day, using project context files so AI-generated code follows each codebase's architecture.
 
-🏆 ICPC South America South Finals 2025 &nbsp;·&nbsp; 🎓 Systems Engineer, UEB (2026) &nbsp;·&nbsp; 📜 Full Stack Postgraduate Diploma, UNIVALLE
+🎓 Systems Engineer, UEB (2026) &nbsp;·&nbsp; 📜 Postgraduate Diploma in Full Stack Web Development, UNIVALLE (2026) &nbsp;·&nbsp; 💻 Competed in the ICPC South America South Finals 2025
 
 <br>
 
@@ -22,19 +22,25 @@ I build backends end-to-end: **ASP.NET Core** APIs with Clean Architecture, the 
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" alt="Backend stack" />
 
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Databases" />
+
+**Linux & deployment**
+
+<img src="https://skillicons.dev/icons?i=ubuntu,nginx,git,github&theme=dark" alt="Linux and deployment" />
+
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=angular,ts&theme=dark" alt="Frontend stack" />
+<img src="https://skillicons.dev/icons?i=angular,ts&theme=dark" alt="Frontend" />
 
-**Data & Messaging**
+**Learning**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,kafka,firebase&theme=dark" alt="Data stack" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions&theme=dark" alt="Currently learning" />
 
-**Infrastructure**
+Also worked with: SQL Server · Entity Framework Core · Dapper · Informix (ODBC) · JWT · Hangfire · SignalR · FluentValidation · RxJS · Angular Material · Tailwind CSS · Firebase (Hosting, Cloud Messaging)
 
-<img src="https://skillicons.dev/icons?i=linux,nginx,githubactions,git,bash&theme=dark" alt="Infrastructure stack" />
-
-Also working with: SQL Server · Entity Framework Core · Dapper · Informix (ODBC) · JWT · Keycloak · Hangfire · Flyway · SonarQube · Node.js / Express · Scrum (Jira, Confluence)
+AI-assisted development: Claude Code · GitHub Copilot
 
 <br>
 
@@ -42,23 +48,24 @@ Also working with: SQL Server · Entity Framework Core · Dapper · Informix (OD
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Student Portal](https://miportal.ueb.edu.bo)** | Grades, enrollment and financial records for the university's entire student body | ASP.NET Core 8 · Dapper · Informix (ODBC) · Linux |
-| **[Event Management](https://eventos-uni.ueb.edu.bo/)** | QR-based registration and check-in for university events | ASP.NET Core · EF Core · SQL Server · Hangfire |
-| **[Library System](https://biblioteca.ueb.edu.bo/inicio)** | Catalog search, loan requests and borrowing history for students, plus a role-restricted back office where librarians manage books, copies, loans and suspensions | ASP.NET Core · Dapper · PostgreSQL (PL/pgSQL) · JWT · RBAC |
-| **SmartQ** | Virtual queue management for online and in-person customer service, built by an 8-person Scrum team | Spring Boot 3 · Spring Modulith · PostgreSQL · Kafka → Firebase |
-| **[Epidemiological Map](https://uebdepidemiologicmap.web.app)** | Geolocated disease-case tracking with heat-map visualization for health authorities | ASP.NET Core · EF Core · MySQL · JWT · Firebase |
-| **GIS Mapping** | Public viewer of Santa Cruz's protected natural areas, built for the Departmental Government | Angular · Leaflet · GeoJSON |
+| **[Student Portal](https://miportal.ueb.edu.bo)** | Grades, enrolled courses, and payments for the university's students | Angular · ASP.NET Core 8 · Dapper · Informix (ODBC) · JWT |
+| **[Library System](https://biblioteca.ueb.edu.bo/inicio)** | Built end to end: a catalog app for students plus a role-restricted back office where librarians manage books, loans, and penalties, with real-time notifications | Angular 19 · ASP.NET Core · Dapper · PostgreSQL (PL/pgSQL) · SignalR |
+| **[Event Management](https://eventos-uni.ueb.edu.bo/)** | Attendee import from Excel, QR tickets in PDF, and ticket emails sent in background jobs | ASP.NET Core · EF Core · MySQL · Hangfire |
+| **Psychometric assessment system** | Degree project: digitizes the psychometric assessment of the university's job applicants | ASP.NET Core 8 · Clean Architecture · EF Core · SQL Server |
+| **SmartQ** | Virtual queue system built by an 8-person Scrum team at Jala University. My part: workspace and notification features end to end (Spring Boot endpoints + React screens) | Spring Boot 3 · React · PostgreSQL · Kafka → Firebase Cloud Messaging |
+| **[Epidemiological Map](https://uebdepidemiologicmap.web.app)** | Geolocated disease cases shown on a heat map for health authorities (I built the backend) | ASP.NET Core · EF Core · MySQL · JWT |
+| **GIS Mapping** | Volunteer project with a colleague: public map of Santa Cruz's protected natural areas for the Departmental Government | Angular · Leaflet · GeoJSON |
 
-<sub>The UEB systems were built in-house — their source lives in private institutional repositories. Happy to walk through the architecture on a call.</sub>
+<sub>The UEB systems were built in-house, so their source lives in private institutional repositories. Happy to walk through the architecture on a call.</sub>
 
 <br>
 
 ### Right now
 
-- Building **[Store API](https://github.com/Mirandaaca/sample-api-rest-dotnet-10)** — a sales-management REST API on **ASP.NET Core 10**, EF Core 10 and PostgreSQL, with a layered architecture, FluentValidation, RFC 9457 `ProblemDetails` error handling, and OpenAPI docs served through **Scalar**
-- Wiring its delivery pipeline: **GitHub Actions** for CI, and a self-hosted **Jenkins** job that builds, migrates and updates a `systemd` service on Fedora on every tag
-- Growing toward **DevOps** — containers, pipelines, and infrastructure automation
-- Open to backend, full-stack and DevOps roles
+- Building **[Store API](https://github.com/Mirandaaca/store-api-dotnet10)**: a REST API on **ASP.NET Core 10**, EF Core 10, and PostgreSQL with a layered architecture, FluentValidation, RFC 9457 `ProblemDetails` error handling, OpenAPI docs served through **Scalar**, and a **GitHub Actions** CI workflow
+- Next on it: unit tests with xUnit, and a Jenkins pipeline that deploys it to a `systemd` service on Ubuntu
+- Growing toward **DevOps**: containers, pipelines, and infrastructure automation
+- Open to software developer, backend, and full stack roles
 
 <br>
 
