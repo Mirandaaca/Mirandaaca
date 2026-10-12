@@ -9,11 +9,9 @@ Santa Cruz, Bolivia 🇧🇴 &nbsp;·&nbsp; UTC−4 &nbsp;·&nbsp; English B2 &n
 </div>
 
 <br>
-
 I build web applications end to end, with my strongest work on the backend: REST APIs with **ASP.NET Core**, the SQL databases behind them, **Angular** frontends, and deployments on **Ubuntu** with **Nginx** and **systemd**. From 2025 to 2026 I developed and maintained three systems that are in production at Universidad Evangélica Boliviana. I work with **Claude Code** and **GitHub Copilot** every day, using project context files so AI-generated code follows each codebase's architecture.
 
 🎓 Systems Engineer, UEB (2026) &nbsp;·&nbsp; 📜 Postgraduate Diploma in Full Stack Web Development, UNIVALLE (2026) &nbsp;·&nbsp; 💻 Competed in the ICPC South America South Finals 2025
-
 <br>
 
 ### Stack
@@ -41,7 +39,6 @@ I build web applications end to end, with my strongest work on the backend: REST
 Also worked with: SQL Server · Entity Framework Core · Dapper · Informix (ODBC) · JWT · Hangfire · SignalR · FluentValidation · RxJS · Angular Material · Tailwind CSS · Firebase (Hosting, Cloud Messaging)
 
 AI-assisted development: Claude Code · GitHub Copilot
-
 <br>
 
 ### Featured projects
@@ -57,7 +54,6 @@ AI-assisted development: Claude Code · GitHub Copilot
 | **GIS Mapping** | Volunteer project with a colleague: public map of Santa Cruz's protected natural areas for the Departmental Government | Angular · Leaflet · GeoJSON |
 
 <sub>The UEB systems were built in-house, so their source lives in private institutional repositories. Happy to walk through the architecture on a call.</sub>
-
 <br>
 
 ### Right now
@@ -66,7 +62,6 @@ AI-assisted development: Claude Code · GitHub Copilot
 - Next on it: unit tests with xUnit, and a Jenkins pipeline that deploys it to a `systemd` service on Ubuntu
 - Growing toward **DevOps**: containers, pipelines, and infrastructure automation
 - Open to software developer, backend, and full stack roles
-
 <br>
 
 <div align="center">
@@ -75,7 +70,6 @@ AI-assisted development: Claude Code · GitHub Copilot
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mirandaaca&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 
 </div>
-
 <br>
 
 <div align="center">
