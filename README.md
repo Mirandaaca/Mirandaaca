@@ -21,7 +21,7 @@ Junior software developer from Santa Cruz, Bolivia 🇧🇴. I build web applica
 <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,postgres,mysql,ubuntu,nginx,git,postman,vscode,visualstudio&theme=dark" alt="C#, .NET, Angular, TypeScript, PostgreSQL, MySQL, Ubuntu, Nginx, Git" />
 
 #### Also familiar with:
-<img src="https://skillicons.dev/icons?i=nodejs,js,java,spring,react,materialui,githubactions,docker&theme=dark" alt="NodeJS, JavaScript, Java, Spring Boot, React, MaterialUI, GitHub Actions, Docker" />
+<img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,js,java,spring,react,nextjs,githubactions,docker&theme=dark" alt="Dart, Flutter, NodeJS, JavaScript, Java, Spring Boot, React, NextJS, GitHub Actions, Docker" />
 
 <div align="center">
   
