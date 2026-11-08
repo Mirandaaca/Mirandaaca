@@ -1,4 +1,8 @@
-### Hi, I'm Cristopher 👋
+<div align="center">
+
+# Cristopher Miranda
+
+</div>
 
 Junior software developer from Santa Cruz, Bolivia 🇧🇴. I build web applications end to end, from C# and ASP.NET Core APIs to Angular frontends, with my strongest work on the backend.
 
@@ -13,6 +17,13 @@ Junior software developer from Santa Cruz, Bolivia 🇧🇴. I build web applica
 
 <sub>The source code lives in private institutional repositories. Happy to walk through it on a call.</sub>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,postgres,mysql,ubuntu,nginx,git&theme=dark" alt="C#, .NET, Angular, TypeScript, PostgreSQL, MySQL, Ubuntu, Nginx, Git" />
+### My Stack & Tools
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,postgres,mysql,ubuntu,nginx,git,postman,vscode,visualstudio&theme=dark" alt="C#, .NET, Angular, TypeScript, PostgreSQL, MySQL, Ubuntu, Nginx, Git" />
 
-📫 [cristopher1012z@gmail.com](mailto:cristopher1012z@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cristopher-adrian-miranda-aramayo/)
+#### Also familiar with:
+<img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,js,java,spring,react,nextjs,githubactions,docker&theme=dark" alt="Dart, Flutter, NodeJS, JavaScript, Java, Spring Boot, React, NextJS, GitHub Actions, Docker" />
+
+<div align="center">
+  
+  📫 [cristopher1012z@gmail.com](mailto:cristopher1012z@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cristopher-adrian-miranda-aramayo/)
+</div>
